@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="header_txt">Star Trek Quiz</string>
+    <string name="card_header_txt">Welcome Aboard</string>
+    <string name="name_txt">Please enter your name</string>
+    <string name="button_txt">Engage</string>
+</resources>
