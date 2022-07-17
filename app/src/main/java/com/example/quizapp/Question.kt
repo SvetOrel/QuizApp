@@ -9,10 +9,5 @@ data class Question (
     val optionThree : String,
     val optionFour : String,
     val optionFive : String,
-    val optionSix : String,
-    val optionSeven : String,
-    val optionEight : String,
-    val optionNine : String,
-    val optionTen : String,
     val correctAnswer : Int
 )
