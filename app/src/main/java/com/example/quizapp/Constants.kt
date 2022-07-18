@@ -29,14 +29,14 @@ object Constants {
         questionList.add(que2)
 
         val que3 = Question(
-            3, "In the Mirror universe, what has replaced the United Federation of Planets?",
+            3, "Who was the captain in the first pilot episode of the original Star Trek series?",
             R.drawable.borg,
-            "Breen Confederacy",
-            "Cardassian Union",
-            "Klingon Empire",
-            "Borg Empire",
-            "Terran Empire",
-            5
+            "Spoke",
+            "James T. Kirk",
+            "Christopher Pike",
+            "Jean-Luc Picard",
+            "John Archer",
+            3
         )
         questionList.add(que3)
 
