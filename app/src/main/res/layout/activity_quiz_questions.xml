@@ -29,7 +29,7 @@
             android:layout_width="240dp"
             android:layout_height="200dp"
             android:layout_marginTop="16dp"
-            android:background="@color/white"
+            android:background="@color/light_grey"
             android:contentDescription="Quiz Image"
             tools:srcCompat="@drawable/alien" />
         <LinearLayout
